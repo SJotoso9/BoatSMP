@@ -1,0 +1,16 @@
+TellRawMessages:
+- '{"text":"[Get more info on TellRaws here: minecraft.tools/en/tellraw.php ]","color":"dark_purple"}'
+- '{"text":"[This is a test message!] ","color":"aqua"}'
+- '["",{"text":"Click me to open URL!","color":"red","bold":true,"underlined":false,"clickEvent":{"action":"open_url","value":"https://www.google.com"}}]'
+- '{"text":"Hover over me for help text!","color":"yellow","bold":true,"hoverEvent":{"action":"show_text","value":{"text":"","extra":[{"text":"I
+  am a hint!","color":"yellow","bold":true}]}}}'
+- '{"text":"Click me to run help command!","color":"yellow","bold":true,"clickEvent":{"action":"run_command","value":"/help"}}'
+timer: 120
+Random: false
+UseTellRawMessages: false
+Messages:
+- <&eBoatSMP&f> &e&lEntre no nosso servidor do Discord &1https://discord.gg/JBs6RJPvC8
+- <&eBoatSMP&f> Começe pedindo ajuda para outras pessoas geralmente é melhor!
+- <&eBoatSMP&f> Sempre que alguém matar o Ender Dragon o servidor é reiniciado em
+  outro mundo mas seus itens no inventário são mantidos
+

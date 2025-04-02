@@ -1,0 +1,235 @@
+[00:00:58] [Server thread/INFO]: <[0;33;1mBoatSMP[0;37;1m> Começe pedindo ajuda para outras pessoas geralmente é melhor![m
+[00:02:58] [Server thread/INFO]: <[0;33;1mBoatSMP[0;37;1m> Sempre que alguém matar o Ender Dragon o servidor é reiniciado em outro mundo mas seus itens no inventário são mantidos[m
+[00:04:58] [Server thread/INFO]: <[0;33;1mBoatSMP[0;37;1m> [0;33;1m[21mEntre no nosso servidor do Discord [0;34;22mhttps://discord.gg/JBs6RJPvC8[m
+[00:06:29] [RCON Listener #2/INFO]: Thread RCON Client /127.181.195.2 started
+[00:06:30] [RCON Client /127.181.195.2 #137/INFO]: Thread RCON Client /127.181.195.2 shutting down
+[00:06:58] [Server thread/INFO]: <[0;33;1mBoatSMP[0;37;1m> Começe pedindo ajuda para outras pessoas geralmente é melhor![m
+[00:08:58] [Server thread/INFO]: <[0;33;1mBoatSMP[0;37;1m> Sempre que alguém matar o Ender Dragon o servidor é reiniciado em outro mundo mas seus itens no inventário são mantidos[m
+[00:10:58] [Server thread/INFO]: <[0;33;1mBoatSMP[0;37;1m> [0;33;1m[21mEntre no nosso servidor do Discord [0;34;22mhttps://discord.gg/JBs6RJPvC8[m
+[00:11:20] [RCON Listener #2/INFO]: Thread RCON Client /127.181.195.2 started
+[00:11:20] [RCON Client /127.181.195.2 #138/INFO]: Thread RCON Client /127.181.195.2 shutting down
+[00:11:34] [RCON Listener #2/INFO]: Thread RCON Client /127.181.195.2 started
+[00:11:34] [RCON Client /127.181.195.2 #139/INFO]: Thread RCON Client /127.181.195.2 shutting down
+[00:11:46] [RCON Listener #2/INFO]: Thread RCON Client /127.181.195.2 started
+[00:11:46] [RCON Client /127.181.195.2 #140/INFO]: Thread RCON Client /127.181.195.2 shutting down
+[00:12:58] [Server thread/INFO]: <[0;33;1mBoatSMP[0;37;1m> Começe pedindo ajuda para outras pessoas geralmente é melhor![m
+[00:14:14] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+[00:14:17] [Server thread/INFO]: [0;33;1m--------- [0;37;1mHelp: Index [0;33;1m---------------------------[m
+[00:14:17] [Server thread/INFO]: [0;37;22mUse /help [n] to get page n of help.[m
+[00:14:17] [Server thread/INFO]: [0;37;22m[0;33;22mAliases: [0;37;1mLists command aliases[m
+[00:14:17] [Server thread/INFO]: [0;37;1m[0;33;22mAutoMessage: [0;37;1mAll commands for AutoMessage[m
+[00:14:17] [Server thread/INFO]: [0;37;1m[0;33;22mBukkit: [0;37;1mAll commands for Bukkit[m
+[00:14:17] [Server thread/INFO]: [0;37;1m[0;33;22melyby-skinsystem: [0;37;1mAll commands for elyby-skinsystem[m
+[00:14:17] [Server thread/INFO]: [0;37;1m[0;33;22mGeyser-Spigot: [0;37;1mAll commands for Geyser-Spigot[m
+[00:14:17] [Server thread/INFO]: [0;37;1m[0;33;22mMinecraft: [0;37;1mAll commands for Minecraft[m
+[00:14:17] [Server thread/INFO]: [0;37;1m[0;33;22mViaVersion: [0;37;1mAll commands for ViaVersion[m
+[00:14:17] [Server thread/INFO]: [0;37;1m[0;33;22m/advancement: [0;37;1mA Mojang provided command.[m
+[00:14:17] [Server thread/INFO]: [0;37;1m[0;33;22m/attribute: [0;37;1mA Mojang provided command.[m
+[00:14:17] [Server thread/INFO]: [0;37;1m[0;33;22m/automessage: [0;37;1m[m
+[00:14:17] [Server thread/INFO]: [0;37;1m[0;33;22m/ban: [0;37;1mA Mojang provided command.[m
+[00:14:17] [Server thread/INFO]: [0;37;1m[0;33;22m/ban-ip: [0;37;1mA Mojang provided command.[m
+[00:14:17] [Server thread/INFO]: [0;37;1m[0;33;22m/banlist: [0;37;1mA Mojang provided command.[m
+[00:14:17] [Server thread/INFO]: [0;37;1m[0;33;22m/bossbar: [0;37;1mA Mojang provided command.[m
+[00:14:17] [Server thread/INFO]: [0;37;1m[0;33;22m/clear: [0;37;1mA Mojang provided command.[m
+[00:14:17] [Server thread/INFO]: [0;37;1m[0;33;22m/clone: [0;37;1mA Mojang provided command.[m
+[00:14:17] [Server thread/INFO]: [0;37;1m[0;33;22m/damage: [0;37;1mA Mojang provided command.[m
+[00:14:17] [Server thread/INFO]: [0;37;1m[0;33;22m/data: [0;37;1mA Mojang provided command.[m
+[00:14:17] [Server thread/INFO]: [0;37;1m[0;33;22m/datapack: [0;37;1mA Mojang provided command.[m
+[00:14:17] [Server thread/INFO]: [0;37;1m[0;33;22m/debug: [0;37;1mA Mojang provided command.[m
+[00:14:17] [Server thread/INFO]: [0;37;1m[0;33;22m/defaultgamemode: [0;37;1mA Mojang provided command.[m
+[00:14:17] [Server thread/INFO]: [0;37;1m[0;33;22m/deop: [0;37;1mA Mojang provided command.[m
+[00:14:17] [Server thread/INFO]: [0;37;1m[0;33;22m/difficulty: [0;37;1mA Mojang provided command.[m
+[00:14:17] [Server thread/INFO]: [0;37;1m[0;33;22m/effect: [0;37;1mA Mojang provided command.[m
+[00:14:17] [Server thread/INFO]: [0;37;1m[0;33;22m/ely-skin-help: [0;37;1mCommand to show help about ely.by skin system plugin.[m
+[00:14:17] [Server thread/INFO]: [0;37;1m[0;33;22m/ely-skin-mojang: [0;37;1mCommand to add or remove players to force Mojang list.[m
+[00:14:17] [Server thread/INFO]: [0;37;1m[0;33;22m/ely-skin-update: [0;37;1mCommand to update ely.by skin system plugin.[m
+[00:14:17] [Server thread/INFO]: [0;37;1m[0;33;22m/enchant: [0;37;1mA Mojang provided command.[m
+[00:14:17] [Server thread/INFO]: [0;37;1m[0;33;22m/execute: [0;37;1mA Mojang provided command.[m
+[00:14:17] [Server thread/INFO]: [0;37;1m[0;33;22m/experience: [0;37;1mA Mojang provided command.[m
+[00:14:17] [Server thread/INFO]: [0;37;1m[0;33;22m/fill: [0;37;1mA Mojang provided command.[m
+[00:14:17] [Server thread/INFO]: [0;37;1m[0;33;22m/fillbiome: [0;37;1mA Mojang provided command.[m
+[00:14:17] [Server thread/INFO]: [0;37;1m[0;33;22m/forceload: [0;37;1mA Mojang provided command.[m
+[00:14:17] [Server thread/INFO]: [0;37;1m[0;33;22m/function: [0;37;1mA Mojang provided command.[m
+[00:14:17] [Server thread/INFO]: [0;37;1m[0;33;22m/gamemode: [0;37;1mA Mojang provided command.[m
+[00:14:17] [Server thread/INFO]: [0;37;1m[0;33;22m/gamerule: [0;37;1mA Mojang provided command.[m
+[00:14:17] [Server thread/INFO]: [0;37;1m[0;33;22m/geyser: [0;37;1mShows help for all registered commands.[m
+[00:14:17] [Server thread/INFO]: [0;37;1m[0;33;22m/give: [0;37;1mA Mojang provided command.[m
+[00:14:17] [Server thread/INFO]: [0;37;1m[0;33;22m/help: [0;37;1mShows the help menu[m
+[00:14:17] [Server thread/INFO]: [0;37;1m[0;33;22m/item: [0;37;1mA Mojang provided command.[m
+[00:14:17] [Server thread/INFO]: [0;37;1m[0;33;22m/jfr: [0;37;1mA Mojang provided command.[m
+[00:14:17] [Server thread/INFO]: [0;37;1m[0;33;22m/kick: [0;37;1mA Mojang provided command.[m
+[00:14:17] [Server thread/INFO]: [0;37;1m[0;33;22m/kill: [0;37;1mA Mojang provided command.[m
+[00:14:17] [Server thread/INFO]: [0;37;1m[0;33;22m/list: [0;37;1mA Mojang provided command.[m
+[00:14:17] [Server thread/INFO]: [0;37;1m[0;33;22m/locate: [0;37;1mA Mojang provided command.[m
+[00:14:17] [Server thread/INFO]: [0;37;1m[0;33;22m/loot: [0;37;1mA Mojang provided command.[m
+[00:14:17] [Server thread/INFO]: [0;37;1m[0;33;22m/me: [0;37;1mA Mojang provided command.[m
+[00:14:17] [Server thread/INFO]: [0;37;1m[0;33;22m/minecraft:help: [0;37;1mA Mojang provided command.[m
+[00:14:17] [Server thread/INFO]: [0;37;1m[0;33;22m/minecraft:reload: [0;37;1mA Mojang provided command.[m
+[00:14:17] [Server thread/INFO]: [0;37;1m[0;33;22m/msg: [0;37;1mA Mojang provided command.[m
+[00:14:17] [Server thread/INFO]: [0;37;1m[0;33;22m/op: [0;37;1mA Mojang provided command.[m
+[00:14:17] [Server thread/INFO]: [0;37;1m[0;33;22m/pardon: [0;37;1mA Mojang provided command.[m
+[00:14:17] [Server thread/INFO]: [0;37;1m[0;33;22m/pardon-ip: [0;37;1mA Mojang provided command.[m
+[00:14:17] [Server thread/INFO]: [0;37;1m[0;33;22m/particle: [0;37;1mA Mojang provided command.[m
+[00:14:17] [Server thread/INFO]: [0;37;1m[0;33;22m/perf: [0;37;1mA Mojang provided command.[m
+[00:14:17] [Server thread/INFO]: [0;37;1m[0;33;22m/permissions: [0;37;1m[m
+[00:14:17] [Server thread/INFO]: [0;37;1m[0;33;22m/place: [0;37;1mA Mojang provided command.[m
+[00:14:17] [Server thread/INFO]: [0;37;1m[0;33;22m/playsound: [0;37;1mA Mojang provided command.[m
+[00:14:17] [Server thread/INFO]: [0;37;1m[0;33;22m/plugins: [0;37;1mGets a list of plugins running on the server[m
+[00:14:17] [Server thread/INFO]: [0;37;1m[0;33;22m/random: [0;37;1mA Mojang provided command.[m
+[00:14:17] [Server thread/INFO]: [0;37;1m[0;33;22m/recipe: [0;37;1mA Mojang provided command.[m
+[00:14:17] [Server thread/INFO]: [0;37;1m[0;33;22m/reload: [0;37;1mReloads the server configuration and plugins[m
+[00:14:17] [Server thread/INFO]: [0;37;1m[0;33;22m/restart: [0;37;1mRestarts the server[m
+[00:14:17] [Server thread/INFO]: [0;37;1m[0;33;22m/return: [0;37;1mA Mojang provided command.[m
+[00:14:17] [Server thread/INFO]: [0;37;1m[0;33;22m/ride: [0;37;1mA Mojang provided command.[m
+[00:14:17] [Server thread/INFO]: [0;37;1m[0;33;22m/save-all: [0;37;1mA Mojang provided command.[m
+[00:14:17] [Server thread/INFO]: [0;37;1m[0;33;22m/save-off: [0;37;1mA Mojang provided command.[m
+[00:14:17] [Server thread/INFO]: [0;37;1m[0;33;22m/save-on: [0;37;1mA Mojang provided command.[m
+[00:14:17] [Server thread/INFO]: [0;37;1m[0;33;22m/say: [0;37;1mA Mojang provided command.[m
+[00:14:17] [Server thread/INFO]: [0;37;1m[0;33;22m/schedule: [0;37;1mA Mojang provided command.[m
+[00:14:17] [Server thread/INFO]: [0;37;1m[0;33;22m/scoreboard: [0;37;1mA Mojang provided command.[m
+[00:14:17] [Server thread/INFO]: [0;37;1m[0;33;22m/seed: [0;37;1mA Mojang provided command.[m
+[00:14:17] [Server thread/INFO]: [0;37;1m[0;33;22m/setblock: [0;37;1mA Mojang provided command.[m
+[00:14:17] [Server thread/INFO]: [0;37;1m[0;33;22m/setidletimeout: [0;37;1mA Mojang provided command.[m
+[00:14:17] [Server thread/INFO]: [0;37;1m[0;33;22m/setskin: [0;37;1mCommand to notify user that this is not ChangeSkin plugin.[m
+[00:14:17] [Server thread/INFO]: [0;37;1m[0;33;22m/setworldspawn: [0;37;1mA Mojang provided command.[m
+[00:14:17] [Server thread/INFO]: [0;37;1m[0;33;22m/skin: [0;37;1mCommand to notify user that this is not SkinsRestorer plugin.[m
+[00:14:17] [Server thread/INFO]: [0;37;1m[0;33;22m/spawnpoint: [0;37;1mA Mojang provided command.[m
+[00:14:17] [Server thread/INFO]: [0;37;1m[0;33;22m/spectate: [0;37;1mA Mojang provided command.[m
+[00:14:17] [Server thread/INFO]: [0;37;1m[0;33;22m/spigot: [0;37;1mSpigot related commands[m
+[00:14:17] [Server thread/INFO]: [0;37;1m[0;33;22m/spreadplayers: [0;37;1mA Mojang provided command.[m
+[00:14:17] [Server thread/INFO]: [0;37;1m[0;33;22m/stop: [0;37;1mA Mojang provided command.[m
+[00:14:17] [Server thread/INFO]: [0;37;1m[0;33;22m/stopsound: [0;37;1mA Mojang provided command.[m
+[00:14:17] [Server thread/INFO]: [0;37;1m[0;33;22m/summon: [0;37;1mA Mojang provided command.[m
+[00:14:17] [Server thread/INFO]: [0;37;1m[0;33;22m/tag: [0;37;1mA Mojang provided command.[m
+[00:14:17] [Server thread/INFO]: [0;37;1m[0;33;22m/team: [0;37;1mA Mojang provided command.[m
+[00:14:17] [Server thread/INFO]: [0;37;1m[0;33;22m/teammsg: [0;37;1mA Mojang provided command.[m
+[00:14:17] [Server thread/INFO]: [0;37;1m[0;33;22m/teleport: [0;37;1mA Mojang provided command.[m
+[00:14:17] [Server thread/INFO]: [0;37;1m[0;33;22m/tell: [0;37;1mA Mojang provided command.[m
+[00:14:17] [Server thread/INFO]: [0;37;1m[0;33;22m/tellraw: [0;37;1mA Mojang provided command.[m
+[00:14:17] [Server thread/INFO]: [0;37;1m[0;33;22m/tick: [0;37;1mA Mojang provided command.[m
+[00:14:17] [Server thread/INFO]: [0;37;1m[0;33;22m/time: [0;37;1mA Mojang provided command.[m
+[00:14:17] [Server thread/INFO]: [0;37;1m[0;33;22m/timings: [0;37;1mManages Spigot Timings data to see performance of the server.[m
+[00:14:17] [Server thread/INFO]: [0;37;1m[0;33;22m/title: [0;37;1mA Mojang provided command.[m
+[00:14:17] [Server thread/INFO]: [0;37;1m[0;33;22m/tm: [0;37;1mA Mojang provided command.[m
+[00:14:17] [Server thread/INFO]: [0;37;1m[0;33;22m/tp: [0;37;1mA Mojang provided command.[m
+[00:14:17] [Server thread/INFO]: [0;37;1m[0;33;22m/tps: [0;37;1mGets the current ticks per second for the server[m
+[00:14:17] [Server thread/INFO]: [0;37;1m[0;33;22m/transfer: [0;37;1mA Mojang provided command.[m
+[00:14:17] [Server thread/INFO]: [0;37;1m[0;33;22m/trigger: [0;37;1mA Mojang provided command.[m
+[00:14:17] [Server thread/INFO]: [0;37;1m[0;33;22m/version: [0;37;1mGets the version of this server including any plugins in use[m
+[00:14:17] [Server thread/INFO]: [0;37;1m[0;33;22m/viaversion: [0;37;1mShows ViaVersion Version and more.[m
+[00:14:17] [Server thread/INFO]: [0;37;1m[0;33;22m/w: [0;37;1mA Mojang provided command.[m
+[00:14:17] [Server thread/INFO]: [0;37;1m[0;33;22m/weather: [0;37;1mA Mojang provided command.[m
+[00:14:17] [Server thread/INFO]: [0;37;1m[0;33;22m/whitelist: [0;37;1mA Mojang provided command.[m
+[00:14:17] [Server thread/INFO]: [0;37;1m[0;33;22m/worldborder: [0;37;1mA Mojang provided command.[m
+[00:14:17] [Server thread/INFO]: [0;37;1m[0;33;22m/xp: [0;37;1mA Mojang provided command.[m
+[00:14:58] [Server thread/INFO]: <[0;33;1mBoatSMP[0;37;1m> Sempre que alguém matar o Ender Dragon o servidor é reiniciado em outro mundo mas seus itens no inventário são mantidos[m
+[00:16:58] [Server thread/INFO]: <[0;33;1mBoatSMP[0;37;1m> [0;33;1m[21mEntre no nosso servidor do Discord [0;34;22mhttps://discord.gg/JBs6RJPvC8[m
+[00:18:58] [Server thread/INFO]: <[0;33;1mBoatSMP[0;37;1m> Começe pedindo ajuda para outras pessoas geralmente é melhor![m
+[00:20:58] [Server thread/INFO]: <[0;33;1mBoatSMP[0;37;1m> Sempre que alguém matar o Ender Dragon o servidor é reiniciado em outro mundo mas seus itens no inventário são mantidos[m
+[00:22:29] [RCON Listener #2/INFO]: Thread RCON Client /127.134.178.31 started
+[00:22:29] [RCON Listener #2/INFO]: Thread RCON Client /127.234.199.150 started
+[00:22:30] [RCON Listener #2/INFO]: Thread RCON Client /127.134.178.31 started
+[00:22:30] [RCON Listener #2/INFO]: Thread RCON Client /127.134.178.31 started
+[00:22:31] [RCON Listener #2/INFO]: Thread RCON Client /127.134.178.31 started
+[00:22:32] [RCON Client /127.134.178.31 #141/INFO]: Thread RCON Client /127.134.178.31 shutting down
+[00:22:33] [RCON Client /127.134.178.31 #143/INFO]: Thread RCON Client /127.134.178.31 shutting down
+[00:22:33] [RCON Client /127.134.178.31 #144/INFO]: Thread RCON Client /127.134.178.31 shutting down
+[00:22:34] [RCON Client /127.134.178.31 #145/INFO]: Thread RCON Client /127.134.178.31 shutting down
+[00:22:34] [RCON Listener #2/INFO]: Thread RCON Client /127.134.178.31 started
+[00:22:35] [RCON Listener #2/INFO]: Thread RCON Client /127.134.178.31 started
+[00:22:35] [RCON Listener #2/INFO]: Thread RCON Client /127.134.178.31 started
+[00:22:35] [RCON Listener #2/INFO]: Thread RCON Client /127.134.178.31 started
+[00:22:35] [RCON Listener #2/INFO]: Thread RCON Client /127.234.199.150 started
+[00:22:36] [RCON Client /127.134.178.31 #146/INFO]: Thread RCON Client /127.134.178.31 shutting down
+[00:22:37] [RCON Client /127.134.178.31 #147/INFO]: Thread RCON Client /127.134.178.31 shutting down
+[00:22:37] [RCON Client /127.134.178.31 #148/INFO]: Thread RCON Client /127.134.178.31 shutting down
+[00:22:38] [RCON Client /127.134.178.31 #149/INFO]: Thread RCON Client /127.134.178.31 shutting down
+[00:22:38] [RCON Client /127.234.199.150 #150/INFO]: Thread RCON Client /127.234.199.150 shutting down
+[00:22:46] [RCON Client /127.234.199.150 #142/INFO]: Thread RCON Client /127.234.199.150 shutting down
+[00:22:51] [RCON Listener #2/INFO]: Thread RCON Client /127.134.178.31 started
+[00:22:54] [RCON Client /127.134.178.31 #151/INFO]: Thread RCON Client /127.134.178.31 shutting down
+[00:22:54] [RCON Listener #2/INFO]: Thread RCON Client /127.134.178.31 started
+[00:22:57] [RCON Client /127.134.178.31 #152/INFO]: Thread RCON Client /127.134.178.31 shutting down
+[00:22:58] [Server thread/INFO]: <[0;33;1mBoatSMP[0;37;1m> [0;33;1m[21mEntre no nosso servidor do Discord [0;34;22mhttps://discord.gg/JBs6RJPvC8[m
+[00:22:59] [RCON Listener #2/INFO]: Thread RCON Client /127.234.199.150 started
+[00:22:59] [RCON Listener #2/INFO]: Thread RCON Client /127.134.178.31 started
+[00:23:02] [RCON Client /127.234.199.150 #153/INFO]: Thread RCON Client /127.234.199.150 shutting down
+[00:23:02] [RCON Client /127.134.178.31 #154/INFO]: Thread RCON Client /127.134.178.31 shutting down
+[00:24:58] [Server thread/INFO]: <[0;33;1mBoatSMP[0;37;1m> Começe pedindo ajuda para outras pessoas geralmente é melhor![m
+[00:26:58] [Server thread/INFO]: <[0;33;1mBoatSMP[0;37;1m> Sempre que alguém matar o Ender Dragon o servidor é reiniciado em outro mundo mas seus itens no inventário são mantidos[m
+[00:28:58] [Server thread/INFO]: <[0;33;1mBoatSMP[0;37;1m> [0;33;1m[21mEntre no nosso servidor do Discord [0;34;22mhttps://discord.gg/JBs6RJPvC8[m
+[00:30:58] [Server thread/INFO]: <[0;33;1mBoatSMP[0;37;1m> Começe pedindo ajuda para outras pessoas geralmente é melhor![m
+[00:32:58] [Server thread/INFO]: <[0;33;1mBoatSMP[0;37;1m> Sempre que alguém matar o Ender Dragon o servidor é reiniciado em outro mundo mas seus itens no inventário são mantidos[m
+[00:34:58] [Server thread/INFO]: <[0;33;1mBoatSMP[0;37;1m> [0;33;1m[21mEntre no nosso servidor do Discord [0;34;22mhttps://discord.gg/JBs6RJPvC8[m
+[00:36:58] [Server thread/INFO]: <[0;33;1mBoatSMP[0;37;1m> Começe pedindo ajuda para outras pessoas geralmente é melhor![m
+[00:38:58] [Server thread/INFO]: <[0;33;1mBoatSMP[0;37;1m> Sempre que alguém matar o Ender Dragon o servidor é reiniciado em outro mundo mas seus itens no inventário são mantidos[m
+[00:40:58] [Server thread/INFO]: <[0;33;1mBoatSMP[0;37;1m> [0;33;1m[21mEntre no nosso servidor do Discord [0;34;22mhttps://discord.gg/JBs6RJPvC8[m
+[00:42:58] [Server thread/INFO]: <[0;33;1mBoatSMP[0;37;1m> Começe pedindo ajuda para outras pessoas geralmente é melhor![m
+[00:44:58] [Server thread/INFO]: <[0;33;1mBoatSMP[0;37;1m> Sempre que alguém matar o Ender Dragon o servidor é reiniciado em outro mundo mas seus itens no inventário são mantidos[m
+[00:46:58] [Server thread/INFO]: <[0;33;1mBoatSMP[0;37;1m> [0;33;1m[21mEntre no nosso servidor do Discord [0;34;22mhttps://discord.gg/JBs6RJPvC8[m
+[00:48:58] [Server thread/INFO]: <[0;33;1mBoatSMP[0;37;1m> Começe pedindo ajuda para outras pessoas geralmente é melhor![m
+[00:50:58] [Server thread/INFO]: <[0;33;1mBoatSMP[0;37;1m> Sempre que alguém matar o Ender Dragon o servidor é reiniciado em outro mundo mas seus itens no inventário são mantidos[m
+[00:52:58] [Server thread/INFO]: <[0;33;1mBoatSMP[0;37;1m> [0;33;1m[21mEntre no nosso servidor do Discord [0;34;22mhttps://discord.gg/JBs6RJPvC8[m
+[00:54:58] [Server thread/INFO]: <[0;33;1mBoatSMP[0;37;1m> Começe pedindo ajuda para outras pessoas geralmente é melhor![m
+[00:56:58] [Server thread/INFO]: <[0;33;1mBoatSMP[0;37;1m> Sempre que alguém matar o Ender Dragon o servidor é reiniciado em outro mundo mas seus itens no inventário são mantidos[m
+[00:58:58] [Server thread/INFO]: <[0;33;1mBoatSMP[0;37;1m> [0;33;1m[21mEntre no nosso servidor do Discord [0;34;22mhttps://discord.gg/JBs6RJPvC8[m
+[01:00:58] [Server thread/INFO]: <[0;33;1mBoatSMP[0;37;1m> Começe pedindo ajuda para outras pessoas geralmente é melhor![m
+[01:02:58] [Server thread/INFO]: <[0;33;1mBoatSMP[0;37;1m> Sempre que alguém matar o Ender Dragon o servidor é reiniciado em outro mundo mas seus itens no inventário são mantidos[m
+[01:04:58] [Server thread/INFO]: <[0;33;1mBoatSMP[0;37;1m> [0;33;1m[21mEntre no nosso servidor do Discord [0;34;22mhttps://discord.gg/JBs6RJPvC8[m
+[01:06:58] [Server thread/INFO]: <[0;33;1mBoatSMP[0;37;1m> Começe pedindo ajuda para outras pessoas geralmente é melhor![m
+[01:08:58] [Server thread/INFO]: <[0;33;1mBoatSMP[0;37;1m> Sempre que alguém matar o Ender Dragon o servidor é reiniciado em outro mundo mas seus itens no inventário são mantidos[m
+[01:10:58] [Server thread/INFO]: <[0;33;1mBoatSMP[0;37;1m> [0;33;1m[21mEntre no nosso servidor do Discord [0;34;22mhttps://discord.gg/JBs6RJPvC8[m
+[01:12:58] [Server thread/INFO]: <[0;33;1mBoatSMP[0;37;1m> Começe pedindo ajuda para outras pessoas geralmente é melhor![m
+[01:14:58] [Server thread/INFO]: <[0;33;1mBoatSMP[0;37;1m> Sempre que alguém matar o Ender Dragon o servidor é reiniciado em outro mundo mas seus itens no inventário são mantidos[m
+[01:16:58] [Server thread/INFO]: <[0;33;1mBoatSMP[0;37;1m> [0;33;1m[21mEntre no nosso servidor do Discord [0;34;22mhttps://discord.gg/JBs6RJPvC8[m
+[01:18:58] [Server thread/INFO]: <[0;33;1mBoatSMP[0;37;1m> Começe pedindo ajuda para outras pessoas geralmente é melhor![m
+[01:19:01] [RCON Listener #2/INFO]: Thread RCON Client /127.134.178.31 started
+[01:19:01] [RCON Listener #2/INFO]: Thread RCON Client /127.234.199.150 started
+[01:19:02] [RCON Listener #2/INFO]: Thread RCON Client /127.134.178.31 started
+[01:19:03] [RCON Listener #2/INFO]: Thread RCON Client /127.134.178.31 started
+[01:19:03] [RCON Listener #2/INFO]: Thread RCON Client /127.134.178.31 started
+[01:19:04] [RCON Client /127.234.199.150 #156/INFO]: Thread RCON Client /127.234.199.150 shutting down
+[01:19:04] [RCON Listener #2/INFO]: Thread RCON Client /127.234.199.150 started
+[01:19:04] [RCON Client /127.134.178.31 #155/INFO]: Thread RCON Client /127.134.178.31 shutting down
+[01:19:05] [RCON Listener #2/INFO]: Thread RCON Client /127.134.178.31 started
+[01:19:05] [RCON Client /127.134.178.31 #157/INFO]: Thread RCON Client /127.134.178.31 shutting down
+[01:19:05] [RCON Client /127.234.199.150 #160/INFO]: Thread RCON Client /127.234.199.150 shutting down
+[01:19:05] [RCON Client /127.134.178.31 #158/INFO]: Thread RCON Client /127.134.178.31 shutting down
+[01:19:06] [RCON Client /127.134.178.31 #159/INFO]: Thread RCON Client /127.134.178.31 shutting down
+[01:19:07] [RCON Listener #2/INFO]: Thread RCON Client /127.234.199.150 started
+[01:19:07] [RCON Listener #2/INFO]: Thread RCON Client /127.134.178.31 started
+[01:19:08] [RCON Listener #2/INFO]: Thread RCON Client /127.134.178.31 started
+[01:19:08] [RCON Listener #2/INFO]: Thread RCON Client /127.134.178.31 started
+[01:19:08] [RCON Client /127.134.178.31 #161/INFO]: Thread RCON Client /127.134.178.31 shutting down
+[01:19:09] [RCON Client /127.234.199.150 #162/INFO]: Thread RCON Client /127.234.199.150 shutting down
+[01:19:09] [RCON Client /127.134.178.31 #165/INFO]: Thread RCON Client /127.134.178.31 shutting down
+[01:19:09] [RCON Client /127.134.178.31 #164/INFO]: Thread RCON Client /127.134.178.31 shutting down
+[01:19:10] [RCON Client /127.134.178.31 #163/INFO]: Thread RCON Client /127.134.178.31 shutting down
+[01:19:28] [RCON Listener #2/INFO]: Thread RCON Client /127.134.178.31 started
+[01:19:31] [RCON Client /127.134.178.31 #166/INFO]: Thread RCON Client /127.134.178.31 shutting down
+[01:19:33] [RCON Listener #2/INFO]: Thread RCON Client /127.134.178.31 started
+[01:19:36] [RCON Listener #2/INFO]: Thread RCON Client /127.134.178.31 started
+[01:19:36] [RCON Client /127.134.178.31 #167/INFO]: Thread RCON Client /127.134.178.31 shutting down
+[01:19:36] [RCON Listener #2/INFO]: Thread RCON Client /127.234.199.150 started
+[01:19:39] [RCON Client /127.234.199.150 #169/INFO]: Thread RCON Client /127.234.199.150 shutting down
+[01:19:39] [RCON Client /127.134.178.31 #168/INFO]: Thread RCON Client /127.134.178.31 shutting down
+[01:20:58] [Server thread/INFO]: <[0;33;1mBoatSMP[0;37;1m> Sempre que alguém matar o Ender Dragon o servidor é reiniciado em outro mundo mas seus itens no inventário são mantidos[m
+[01:22:58] [Server thread/INFO]: <[0;33;1mBoatSMP[0;37;1m> [0;33;1m[21mEntre no nosso servidor do Discord [0;34;22mhttps://discord.gg/JBs6RJPvC8[m
+[01:24:58] [Server thread/INFO]: <[0;33;1mBoatSMP[0;37;1m> Começe pedindo ajuda para outras pessoas geralmente é melhor![m
+[01:25:48] [Server thread/INFO]: There are 0 of a max of 4000 players online: 
+[01:26:06] [Server thread/INFO]: The port you are testing with (59488) is not the same as you set in your Geyser configuration (25565)[m
+[01:26:06] [Server thread/INFO]: Re-run the command with the port in the config, or change the `bedrock` `port` in the config.[m
+[01:26:06] [Server thread/INFO]: You have `clone-remote-port` enabled. This option ignores the `bedrock` `port` in the config, and uses the Java server port instead.[m
+[01:26:19] [ForkJoinPool.commonPool-worker-4/INFO]: Testing server connection to boatsmp.duckdns.org with port: 59488 now. Please wait...[m
+[01:26:25] [ForkJoinPool.commonPool-worker-4/INFO]: Your server is likely unreachable from outside the network![m
+[01:26:25] [ForkJoinPool.commonPool-worker-4/INFO]: Got the error message: boatsmp.duckdns.org: Try again[m
+[01:26:25] [ForkJoinPool.commonPool-worker-4/INFO]: If you still face issues, check the setup guide for instructions: https://wiki.geysermc.org/geyser/setup/[m
+[01:26:25] [ForkJoinPool.commonPool-worker-4/INFO]: If that does not work, see https://wiki.geysermc.org/geyser/fixing-unable-to-connect-to-world/, or contact us on Discord: https://discord.gg/geysermc[m
+[01:26:35] [Server thread/INFO]: The port you are testing with (59488) is not the same as you set in your Geyser configuration (25565)[m
+[01:26:35] [Server thread/INFO]: Re-run the command with the port in the config, or change the `bedrock` `port` in the config.[m
+[01:26:35] [Server thread/INFO]: You have `clone-remote-port` enabled. This option ignores the `bedrock` `port` in the config, and uses the Java server port instead.[m
+[01:26:58] [Server thread/INFO]: <[0;33;1mBoatSMP[0;37;1m> Sempre que alguém matar o Ender Dragon o servidor é reiniciado em outro mundo mas seus itens no inventário são mantidos[m
+[01:27:01] [ForkJoinPool.commonPool-worker-4/INFO]: Testing server connection to boatsmp.duckdns.org with port: 59488 now. Please wait...[m
+[01:27:05] [ForkJoinPool.commonPool-worker-4/INFO]: Your server is likely online and working as of now![m
+[01:27:05] [ForkJoinPool.commonPool-worker-4/INFO]: If you still face issues, check the setup guide for instructions: https://wiki.geysermc.org/geyser/setup/[m
+[01:27:05] [ForkJoinPool.commonPool-worker-4/INFO]: If that does not work, see https://wiki.geysermc.org/geyser/fixing-unable-to-connect-to-world/, or contact us on Discord: https://discord.gg/geysermc[m
