@@ -454,7 +454,8 @@
     "criteria": {
       "minecraft:skeleton": "2025-03-30 22:19:56 +0000",
       "minecraft:spider": "2025-03-30 21:28:01 +0000",
-      "minecraft:zombie": "2025-03-30 21:29:26 +0000"
+      "minecraft:zombie": "2025-03-30 21:29:26 +0000",
+      "minecraft:creeper": "2025-04-12 20:17:13 +0000"
     },
     "done": false
   },
@@ -809,6 +810,18 @@
   "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-03-30 23:07:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/smoker": {
+    "criteria": {
+      "has_furnace": "2025-04-12 20:26:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2025-04-12 20:22:45 +0000"
     },
     "done": true
   },
