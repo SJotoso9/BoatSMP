@@ -1,0 +1,1 @@
+"/workspaces/BoatSMP/Servidor SMP/Zulu 21 Runtime/bin"/java -jar BungeeCord.jar

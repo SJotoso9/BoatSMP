@@ -1,0 +1,1 @@
+java -jar ViaProxy-3.4.2-SNAPSHOT.jar config viaproxy.yml
