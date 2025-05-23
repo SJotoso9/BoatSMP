@@ -1965,3 +1965,212 @@ java.lang.NullPointerException: Plugin must have a plugin.yml or bungee.yml
 13:53:49 [SEVERE] [/127.21.215.51:58819] <-> InitialHandler - encountered exception: net.md_5.bungee.util.QuietException: Unexpected packet received during login process! 32007d32c06323aaf1f2628ec520c1e2
 13:58:29 [SEVERE] [/127.148.50.89:54697] <-> InitialHandler - encountered exception: net.md_5.bungee.util.QuietException: Unexpected packet received during login process! 3200a7eb2d61f9ba16c90d38690302ea
 13:59:26 [SEVERE] [/127.21.215.51:33439] <-> InitialHandler - encountered exception: net.md_5.bungee.util.QuietException: Unexpected packet received during login process! 32002779993c3025b6759e4231ccb6ee
+17:33:16 [INFO] Using mbed TLS based native cipher.
+17:33:16 [INFO] Using zlib based native compressor.
+17:33:16 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.21-R0.3-SNAPSHOT:a336efb:1941
+17:33:16 [INFO] Not on Windows, attempting to use enhanced EpollEventLoop
+17:33:16 [INFO] Epoll is working, utilising it!
+17:33:16 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules/cmd_alert.jar, provider=JenkinsModuleSource())
+17:33:16 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules/cmd_find.jar, provider=JenkinsModuleSource())
+17:33:16 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules/cmd_list.jar, provider=JenkinsModuleSource())
+17:33:16 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules/cmd_send.jar, provider=JenkinsModuleSource())
+17:33:16 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules/cmd_server.jar, provider=JenkinsModuleSource())
+17:33:16 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules/reconnect_yaml.jar, provider=JenkinsModuleSource())
+17:33:16 [WARNING] Could not load plugin from file plugins/ViaProxy-3.3.3.jar
+java.lang.NullPointerException: Plugin must have a plugin.yml or bungee.yml
+	at com.google.common.base.Preconditions.checkNotNull(Preconditions.java:922)
+	at net.md_5.bungee.api.plugin.PluginManager.detectPlugins(PluginManager.java:416)
+	at net.md_5.bungee.BungeeCord.start(BungeeCord.java:300)
+	at net.md_5.bungee.BungeeCordLauncher.main(BungeeCordLauncher.java:67)
+	at net.md_5.bungee.Bootstrap.main(Bootstrap.java:15)
+17:33:16 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.21-R0.3-SNAPSHOT:a336efb:1941 by SpigotMC
+17:33:16 [INFO] Loaded plugin cmd_find version git:cmd_find:1.21-R0.3-SNAPSHOT:a336efb:1941 by SpigotMC
+17:33:16 [WARNING] [ViaVersion] ViaVersion does not work as intended across many different server versions, especially the more recent ones. Consider moving Via plugins to your backend server or switching to Velocity.
+17:33:16 [INFO] [ViaVersion] Found ViaBackwards, loading it
+17:33:16 [INFO] [ViaVersion] Found ViaRewind, loading it
+17:33:16 [INFO] Loaded plugin ViaVersion version 0.2.0 by _MylesC, creeper123123321, Gerrygames, kennytv, Matsv, EnZaXD, RK_01
+17:33:16 [INFO] Loaded plugin cmd_server version git:cmd_server:1.21-R0.3-SNAPSHOT:a336efb:1941 by SpigotMC
+17:33:16 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.21-R0.3-SNAPSHOT:a336efb:1941 by SpigotMC
+17:33:16 [INFO] Loaded plugin cmd_send version git:cmd_send:1.21-R0.3-SNAPSHOT:a336efb:1941 by SpigotMC
+17:33:16 [INFO] Loaded plugin cmd_list version git:cmd_list:1.21-R0.3-SNAPSHOT:a336efb:1941 by SpigotMC
+17:33:17 [WARNING] :>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>
+17:33:17 [WARNING] :>  
+17:33:17 [WARNING] :>      EAGLERCRAFTXBUNGEE WARNING:
+17:33:17 [WARNING] :>  
+17:33:17 [WARNING] :>  This plugin wasn't tested to be 'working'
+17:33:17 [WARNING] :>  with ANY version of BungeeCord (and forks)
+17:33:17 [WARNING] :>  apart from the versions listed below:
+17:33:17 [WARNING] :>  
+17:33:17 [WARNING] :>  - BungeeCord: 1.21-R0.1-SNAPSHOT:0aa2871:1893
+17:33:17 [WARNING] :>  - https://ci.md-5.net/job/BungeeCord/1893/artifact/bootstrap/target/BungeeCord.jar
+17:33:17 [WARNING] :>  
+17:33:17 [WARNING] :>  - Waterfall: 1.21-R0.1-SNAPSHOT:9ab9e2b:582
+17:33:17 [WARNING] :>  - https://api.papermc.io/v2/projects/waterfall/versions/1.21/builds/582/downloads/waterfall-1.21-582.jar
+17:33:17 [WARNING] :>  
+17:33:17 [WARNING] :>  This is not a Bukkit/Spigot plugin!
+17:33:17 [WARNING] :>  
+17:33:17 [WARNING] :>  Use "-Deaglerxbungee.stfu=true" to hide
+17:33:17 [WARNING] :>  
+17:33:17 [WARNING] :>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>
+17:33:17 [INFO] Loaded plugin EaglercraftXBungee version 1.3.6 by lax1dude
+17:33:17 [WARNING] Forced host server pvp is not defined
+17:33:17 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.21-R0.3-SNAPSHOT:a336efb:1941 by SpigotMC
+17:33:17 [INFO] Enabled plugin cmd_find version git:cmd_find:1.21-R0.3-SNAPSHOT:a336efb:1941 by SpigotMC
+17:33:17 [INFO] [ViaVersion] Loading block connection mappings ...
+17:33:18 [INFO] [ViaVersion] Loading translations...
+17:33:18 [INFO] [ViaVersion] Registering protocols...
+17:33:19 [INFO] [ViaVersion] Registering protocols...
+17:33:19 [INFO] [ViaVersion] ViaVersion detected lowest supported version by the proxy: 1.8.x (47)
+17:33:19 [INFO] [ViaVersion] Highest supported version by the proxy: 1.21.5 (770)
+17:33:19 [INFO] [ViaVersion] Finished mapping loading, shutting down loader executor.
+17:33:19 [INFO] Enabled plugin ViaVersion version 0.2.0 by _MylesC, creeper123123321, Gerrygames, kennytv, Matsv, EnZaXD, RK_01
+17:33:19 [INFO] Enabled plugin cmd_server version git:cmd_server:1.21-R0.3-SNAPSHOT:a336efb:1941 by SpigotMC
+17:33:19 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.21-R0.3-SNAPSHOT:a336efb:1941 by SpigotMC
+17:33:19 [INFO] Enabled plugin cmd_send version git:cmd_send:1.21-R0.3-SNAPSHOT:a336efb:1941 by SpigotMC
+17:33:19 [INFO] Enabled plugin cmd_list version git:cmd_list:1.21-R0.3-SNAPSHOT:a336efb:1941 by SpigotMC
+17:33:19 [SEVERE] [EaglercraftXBungee] Online mode is set to false! Authentication system has been disabled
+17:33:19 [INFO] [EaglercraftXBungee] Eaglercraft is listening on: /0.0.0.0:8081
+17:33:19 [INFO] [EaglercraftXBungee] Connected to database: jdbc:sqlite:eaglercraft_skins_cache.db
+17:33:19 [INFO] [EaglercraftXBungee] Voice chat disabled, add "allow_voice: true" to your listeners to enable
+17:33:19 [INFO] Enabled plugin EaglercraftXBungee version 1.3.6 by lax1dude
+17:33:19 [INFO] [EaglercraftXBungee] Loaded certificate: /workspaces/BoatSMP/BungeeCord/plugins/EaglercraftXBungee/eagcert/$dl.ac3aaed1273ced06ef766ab055337fbf29dc3347.cert
+17:33:19 [INFO] [EaglercraftXBungee] Loaded certificate: /workspaces/BoatSMP/BungeeCord/plugins/EaglercraftXBungee/eagcert/$dl.ba375b9add3c01ca11899be958188189a3885a59.cert
+17:33:19 [INFO] Listening on /0.0.0.0:25577
+17:34:54 [WARNING] [EaglercraftXBungee] Server icon is not a file: /workspaces/BoatSMP/BungeeCord/server-icon.png
+17:34:59 [INFO] [EaglercraftXBungee] [/127.140.247.83:38177]: Connected via websocket
+17:34:59 [INFO] [EaglercraftXBungee] [/127.140.247.83:38177]: Origin header is null
+17:34:59 [WARNING] [ViaVersion] Could not find UserConnection for logging-in player cd09dda3-49b8-391a-9b94-3273d2327eb4
+17:34:59 [INFO] [EaglercraftXBungee] [/127.140.247.83:38177]: Logged in as 'SJotoso9'
+17:34:59 [INFO] [SJotoso9] -> UpstreamBridge has connected
+17:34:59 [INFO] [SJotoso9] <-> ServerConnector [lobby] has connected
+17:37:40 [WARNING] [/127.68.224.2:46019] <-> InitialHandler - read timed out
+17:38:34 [WARNING] [/127.224.95.237:51685] <-> InitialHandler - read timed out
+17:54:07 [INFO] [SJotoso9] -> UpstreamBridge has disconnected
+17:54:07 [INFO] [SJotoso9] <-> DownstreamBridge <-> [lobby] has disconnected
+17:59:18 [SEVERE] [/127.148.50.89:35151] <-> InitialHandler - encountered exception: net.md_5.bungee.util.QuietException: Unexpected packet received during login process! 320093c1cb8de78f8407daf35f1a08ea
+18:13:45 [SEVERE] [/127.89.46.0:42917] <-> InitialHandler - encountered exception: net.md_5.bungee.util.QuietException: Unexpected packet received during login process! 3200a817a5ed33f51556de5bfad17a75
+18:30:57 [SEVERE] [/127.89.46.0:50905] <-> InitialHandler - encountered exception: net.md_5.bungee.util.QuietException: Unexpected packet received during login process! 320025a451ce6c40e36ec7b4d7c12a2d
+18:31:46 [WARNING] [/127.17.232.182:39293] <-> InitialHandler - read timed out
+18:33:23 [WARNING] [/127.187.82.145:58141] <-> InitialHandler - read timed out
+18:34:40 [WARNING] [/127.23.160.165:38933] <-> InitialHandler - read timed out
+18:36:41 [SEVERE] [/127.89.46.0:60681] <-> InitialHandler - encountered exception: net.md_5.bungee.util.QuietException: Unexpected packet received during login process! 3200a696080afb991f6aa5911b5f9eec
+18:36:48 [SEVERE] [/127.21.215.51:47509] <-> InitialHandler - encountered exception: net.md_5.bungee.util.QuietException: Unexpected packet received during login process! 32009dfd88c1a2a5484142f324317741
+20:27:39 [INFO] Using mbed TLS based native cipher.
+20:27:39 [INFO] Using zlib based native compressor.
+20:27:39 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.21-R0.3-SNAPSHOT:a336efb:1941
+20:27:39 [INFO] Not on Windows, attempting to use enhanced EpollEventLoop
+20:27:39 [INFO] Epoll is working, utilising it!
+20:27:39 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules/cmd_alert.jar, provider=JenkinsModuleSource())
+20:27:39 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules/cmd_find.jar, provider=JenkinsModuleSource())
+20:27:39 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules/cmd_list.jar, provider=JenkinsModuleSource())
+20:27:39 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules/cmd_send.jar, provider=JenkinsModuleSource())
+20:27:39 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules/cmd_server.jar, provider=JenkinsModuleSource())
+20:27:39 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules/reconnect_yaml.jar, provider=JenkinsModuleSource())
+20:27:39 [WARNING] Could not load plugin from file plugins/ViaProxy-3.3.3.jar
+java.lang.NullPointerException: Plugin must have a plugin.yml or bungee.yml
+	at com.google.common.base.Preconditions.checkNotNull(Preconditions.java:922)
+	at net.md_5.bungee.api.plugin.PluginManager.detectPlugins(PluginManager.java:416)
+	at net.md_5.bungee.BungeeCord.start(BungeeCord.java:300)
+	at net.md_5.bungee.BungeeCordLauncher.main(BungeeCordLauncher.java:67)
+	at net.md_5.bungee.Bootstrap.main(Bootstrap.java:15)
+20:27:39 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.21-R0.3-SNAPSHOT:a336efb:1941 by SpigotMC
+20:27:39 [INFO] Loaded plugin cmd_find version git:cmd_find:1.21-R0.3-SNAPSHOT:a336efb:1941 by SpigotMC
+20:27:40 [WARNING] [ViaVersion] ViaVersion does not work as intended across many different server versions, especially the more recent ones. Consider moving Via plugins to your backend server or switching to Velocity.
+20:27:40 [INFO] [ViaVersion] Found ViaBackwards, loading it
+20:27:40 [INFO] [ViaVersion] Found ViaRewind, loading it
+20:27:40 [INFO] Loaded plugin ViaVersion version 0.2.0 by _MylesC, creeper123123321, Gerrygames, kennytv, Matsv, EnZaXD, RK_01
+20:27:40 [INFO] Loaded plugin cmd_server version git:cmd_server:1.21-R0.3-SNAPSHOT:a336efb:1941 by SpigotMC
+20:27:40 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.21-R0.3-SNAPSHOT:a336efb:1941 by SpigotMC
+20:27:40 [INFO] Loaded plugin cmd_send version git:cmd_send:1.21-R0.3-SNAPSHOT:a336efb:1941 by SpigotMC
+20:27:40 [INFO] Loaded plugin cmd_list version git:cmd_list:1.21-R0.3-SNAPSHOT:a336efb:1941 by SpigotMC
+20:27:40 [WARNING] :>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>
+20:27:40 [WARNING] :>  
+20:27:40 [WARNING] :>      EAGLERCRAFTXBUNGEE WARNING:
+20:27:40 [WARNING] :>  
+20:27:40 [WARNING] :>  This plugin wasn't tested to be 'working'
+20:27:40 [WARNING] :>  with ANY version of BungeeCord (and forks)
+20:27:40 [WARNING] :>  apart from the versions listed below:
+20:27:40 [WARNING] :>  
+20:27:40 [WARNING] :>  - BungeeCord: 1.21-R0.1-SNAPSHOT:0aa2871:1893
+20:27:40 [WARNING] :>  - https://ci.md-5.net/job/BungeeCord/1893/artifact/bootstrap/target/BungeeCord.jar
+20:27:40 [WARNING] :>  
+20:27:40 [WARNING] :>  - Waterfall: 1.21-R0.1-SNAPSHOT:9ab9e2b:582
+20:27:40 [WARNING] :>  - https://api.papermc.io/v2/projects/waterfall/versions/1.21/builds/582/downloads/waterfall-1.21-582.jar
+20:27:40 [WARNING] :>  
+20:27:40 [WARNING] :>  This is not a Bukkit/Spigot plugin!
+20:27:40 [WARNING] :>  
+20:27:40 [WARNING] :>  Use "-Deaglerxbungee.stfu=true" to hide
+20:27:40 [WARNING] :>  
+20:27:40 [WARNING] :>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>
+20:27:40 [INFO] Loaded plugin EaglercraftXBungee version 1.3.6 by lax1dude
+20:27:40 [WARNING] Forced host server pvp is not defined
+20:27:40 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.21-R0.3-SNAPSHOT:a336efb:1941 by SpigotMC
+20:27:40 [INFO] Enabled plugin cmd_find version git:cmd_find:1.21-R0.3-SNAPSHOT:a336efb:1941 by SpigotMC
+20:27:41 [INFO] [ViaVersion] Loading block connection mappings ...
+20:27:42 [INFO] [ViaVersion] Loading translations...
+20:27:42 [INFO] [ViaVersion] Registering protocols...
+20:27:43 [INFO] [ViaVersion] Registering protocols...
+20:27:43 [INFO] [ViaVersion] ViaVersion detected lowest supported version by the proxy: 1.8.x (47)
+20:27:43 [INFO] [ViaVersion] Highest supported version by the proxy: 1.21.5 (770)
+20:27:43 [INFO] [ViaVersion] Finished mapping loading, shutting down loader executor.
+20:27:43 [INFO] Enabled plugin ViaVersion version 0.2.0 by _MylesC, creeper123123321, Gerrygames, kennytv, Matsv, EnZaXD, RK_01
+20:27:43 [INFO] Enabled plugin cmd_server version git:cmd_server:1.21-R0.3-SNAPSHOT:a336efb:1941 by SpigotMC
+20:27:43 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.21-R0.3-SNAPSHOT:a336efb:1941 by SpigotMC
+20:27:43 [INFO] Enabled plugin cmd_send version git:cmd_send:1.21-R0.3-SNAPSHOT:a336efb:1941 by SpigotMC
+20:27:43 [INFO] Enabled plugin cmd_list version git:cmd_list:1.21-R0.3-SNAPSHOT:a336efb:1941 by SpigotMC
+20:27:43 [SEVERE] [EaglercraftXBungee] Online mode is set to false! Authentication system has been disabled
+20:27:43 [INFO] [EaglercraftXBungee] Eaglercraft is listening on: /0.0.0.0:8081
+20:27:43 [INFO] [EaglercraftXBungee] Connected to database: jdbc:sqlite:eaglercraft_skins_cache.db
+20:27:43 [INFO] [EaglercraftXBungee] Voice chat disabled, add "allow_voice: true" to your listeners to enable
+20:27:43 [INFO] Enabled plugin EaglercraftXBungee version 1.3.6 by lax1dude
+20:27:43 [INFO] [EaglercraftXBungee] Loaded certificate: /workspaces/BoatSMP/BungeeCord/plugins/EaglercraftXBungee/eagcert/$dl.ac3aaed1273ced06ef766ab055337fbf29dc3347.cert
+20:27:43 [INFO] [EaglercraftXBungee] Loaded certificate: /workspaces/BoatSMP/BungeeCord/plugins/EaglercraftXBungee/eagcert/$dl.ba375b9add3c01ca11899be958188189a3885a59.cert
+20:27:43 [INFO] Listening on /0.0.0.0:25577
+20:30:16 [WARNING] [/127.231.120.100:38149] <-> InitialHandler - read timed out
+20:40:16 [SEVERE] [/127.134.178.31:45979] <-> InitialHandler - encountered exception: net.md_5.bungee.util.QuietException: Unexpected packet received during login process! 0301010a010001060303c5a45673d57a
+20:40:17 [SEVERE] [/127.134.178.31:60071] <-> InitialHandler - encountered exception: net.md_5.bungee.util.QuietException: Unexpected packet received during login process! 0301010a01000106030366a54e68c9f6
+20:40:17 [SEVERE] [/127.134.178.31:37267] <-> InitialHandler - encountered exception: net.md_5.bungee.util.QuietException: Unexpected packet received during login process! 0301010a010001060303ddeee7108781
+20:40:17 [SEVERE] [/127.234.199.150:48183] <-> InitialHandler - encountered exception: net.md_5.bungee.util.QuietException: Unexpected packet received during login process! 0301010a010001060303eebf5a65d47b
+20:40:17 [SEVERE] [/127.234.199.150:60575] <-> InitialHandler - encountered exception: net.md_5.bungee.util.QuietException: Unexpected packet received during login process! 0301010a010001060303782e746354a0
+20:40:20 [SEVERE] [/127.21.215.51:41313] <-> InitialHandler - encountered exception: net.md_5.bungee.util.QuietException: Unexpected packet received during login process! 320071b66045536596d6bcdb4b1a2d89
+20:40:40 [SEVERE] [/127.134.178.31:56675] <-> InitialHandler - encountered exception: net.md_5.bungee.util.QuietException: Unexpected packet received during login process! 03010116010001120303290cdfe402cb
+20:40:40 [SEVERE] [/127.134.178.31:55499] <-> InitialHandler - encountered exception: net.md_5.bungee.util.QuietException: Unexpected packet received during login process! 030100e1010000dd0303d53b8f27edfa
+20:40:41 [SEVERE] [/127.234.199.150:48741] <-> InitialHandler - encountered exception: net.md_5.bungee.util.QuietException: Unexpected packet received during login process! 030100d5010000d1030359e3c8ee5de7
+20:41:02 [WARNING] [/127.222.247.91:36429] <-> InitialHandler - read timed out
+20:45:54 [SEVERE] [/127.21.215.51:45187] <-> InitialHandler - encountered exception: net.md_5.bungee.util.QuietException: Unexpected packet received during login process! 3200204adc742780b64f1b0b784d36c3
+20:48:13 [WARNING] [/127.164.64.144:35149] <-> InitialHandler - read timed out
+20:51:29 [SEVERE] [/127.21.215.51:58491] <-> InitialHandler - encountered exception: net.md_5.bungee.util.QuietException: Unexpected packet received during login process! 320080e5b93e9416fc030c14bd44c123
+20:56:08 [SEVERE] [/127.134.178.31:40503] <-> InitialHandler - encountered exception: net.md_5.bungee.util.QuietException: Unexpected packet received during login process! 0301010a0100010603039f2d9170b786
+20:56:09 [SEVERE] [/127.134.178.31:51895] <-> InitialHandler - encountered exception: net.md_5.bungee.util.QuietException: Unexpected packet received during login process! 0301010a010001060303112885770cdf
+20:56:09 [SEVERE] [/127.134.178.31:54125] <-> InitialHandler - encountered exception: net.md_5.bungee.util.QuietException: Unexpected packet received during login process! 0301010a0100010603038cd613943a9d
+20:56:09 [SEVERE] [/127.234.199.150:40127] <-> InitialHandler - encountered exception: net.md_5.bungee.util.QuietException: Unexpected packet received during login process! 0301010a010001060303f32381428254
+20:56:11 [SEVERE] [/127.134.178.31:60415] <-> InitialHandler - encountered exception: net.md_5.bungee.util.QuietException: Unexpected packet received during login process! 0301010a01000106030322850f0039a8
+20:56:12 [SEVERE] [/127.134.178.31:60833] <-> InitialHandler - encountered exception: net.md_5.bungee.util.QuietException: Unexpected packet received during login process! 0301010a0100010603039a521914a7d8
+20:56:28 [SEVERE] [/127.134.178.31:55585] <-> InitialHandler - encountered exception: net.md_5.bungee.util.QuietException: Unexpected packet received during login process! 030101160100011203034330f472c134
+20:56:29 [SEVERE] [/127.134.178.31:58447] <-> InitialHandler - encountered exception: net.md_5.bungee.util.QuietException: Unexpected packet received during login process! 030100e1010000dd0303d4c1183aeafe
+20:56:32 [SEVERE] [/127.234.199.150:42505] <-> InitialHandler - encountered exception: net.md_5.bungee.util.QuietException: Unexpected packet received during login process! 030100d5010000d10303e2dcdb68b02c
+20:57:10 [SEVERE] [/127.21.215.51:46169] <-> InitialHandler - encountered exception: net.md_5.bungee.util.QuietException: Unexpected packet received during login process! 32002cabe77d73521dbf09ad09a9c397
+21:02:34 [WARNING] [/127.224.95.237:39377] <-> InitialHandler - read timed out
+21:02:52 [SEVERE] [/127.21.215.51:53291] <-> InitialHandler - encountered exception: net.md_5.bungee.util.QuietException: Unexpected packet received during login process! 320034c10cee6887d1708aba7d11a6da
+21:08:26 [SEVERE] [/127.21.215.51:56019] <-> InitialHandler - encountered exception: net.md_5.bungee.util.QuietException: Unexpected packet received during login process! 32007a4f251f09c09af9cc281a85a527
+21:10:40 [WARNING] [/127.162.119.150:37219] <-> InitialHandler - read timed out
+21:14:02 [SEVERE] [/127.21.215.51:56925] <-> InitialHandler - encountered exception: net.md_5.bungee.util.QuietException: Unexpected packet received during login process! 3200fc56efdba6541faa7c2c15e57a1e
+21:23:08 [SEVERE] [/127.21.215.51:40471] <-> InitialHandler - encountered exception: net.md_5.bungee.util.QuietException: Unexpected packet received during login process! 3200d3903953c44199cda386603960a9
+21:28:07 [SEVERE] [/127.234.199.150:57811] <-> InitialHandler - encountered exception: net.md_5.bungee.util.QuietException: Unexpected packet received during login process! 0301010a010001060303e320041941b1
+21:28:09 [SEVERE] [/127.134.178.31:34807] <-> InitialHandler - encountered exception: net.md_5.bungee.util.QuietException: Unexpected packet received during login process! 0301010a010001060303682a8584ddaa
+21:28:11 [SEVERE] [/127.234.199.150:58109] <-> InitialHandler - encountered exception: net.md_5.bungee.util.QuietException: Unexpected packet received during login process! 0301010a0100010603030e30bc449798
+21:28:11 [SEVERE] [/127.234.199.150:50871] <-> InitialHandler - encountered exception: net.md_5.bungee.util.QuietException: Unexpected packet received during login process! 0301010a010001060303c93b09a02153
+21:28:11 [SEVERE] [/127.134.178.31:46099] <-> InitialHandler - encountered exception: net.md_5.bungee.util.QuietException: Unexpected packet received during login process! 0301010a010001060303c36212afa5aa
+21:28:12 [SEVERE] [/127.134.178.31:48411] <-> InitialHandler - encountered exception: net.md_5.bungee.util.QuietException: Unexpected packet received during login process! 0301010a010001060303eefa294e79fb
+21:28:23 [SEVERE] [/127.134.178.31:58129] <-> InitialHandler - encountered exception: net.md_5.bungee.util.QuietException: Unexpected packet received during login process! 0301011601000112030381051e700483
+21:28:24 [SEVERE] [/127.134.178.31:47861] <-> InitialHandler - encountered exception: net.md_5.bungee.util.QuietException: Unexpected packet received during login process! 030100e1010000dd0303b790695bb98d
+21:28:25 [SEVERE] [/127.234.199.150:54975] <-> InitialHandler - encountered exception: net.md_5.bungee.util.QuietException: Unexpected packet received during login process! 030100d5010000d103036fdb206fee5e
+21:28:42 [SEVERE] [/127.21.215.51:49849] <-> InitialHandler - encountered exception: net.md_5.bungee.util.QuietException: Unexpected packet received during login process! 3200c5a19fa5d57909cf70a9a5ab4703
+21:34:18 [SEVERE] [/127.21.215.51:47317] <-> InitialHandler - encountered exception: net.md_5.bungee.util.QuietException: Unexpected packet received during login process! 32008d6769de32fa673f9736699e4aae
+21:39:54 [SEVERE] [/127.21.215.51:38527] <-> InitialHandler - encountered exception: net.md_5.bungee.util.QuietException: Unexpected packet received during login process! 3200df7f1382fa8d4c5b06630d1938ee
+21:45:28 [SEVERE] [/127.21.215.51:44913] <-> InitialHandler - encountered exception: net.md_5.bungee.util.QuietException: Unexpected packet received during login process! 32002e1a7ff4d27b1f3106b571a9b1ea
+21:51:01 [SEVERE] [/127.21.215.51:47895] <-> InitialHandler - encountered exception: net.md_5.bungee.util.QuietException: Unexpected packet received during login process! 320049da67bcb92f0fb04d9d22313aab
+21:54:02 [WARNING] [/127.120.156.223:58591] <-> InitialHandler - read timed out
+21:56:34 [SEVERE] [/127.21.215.51:53743] <-> InitialHandler - encountered exception: net.md_5.bungee.util.QuietException: Unexpected packet received during login process! 320022e8a710a947684b8f06ae338a0e
+22:02:10 [SEVERE] [/127.21.215.51:55527] <-> InitialHandler - encountered exception: net.md_5.bungee.util.QuietException: Unexpected packet received during login process! 3200bd2443129bdb773e7c34b6095026
+22:02:11 [WARNING] [/127.19.208.136:54263] <-> InitialHandler - read timed out

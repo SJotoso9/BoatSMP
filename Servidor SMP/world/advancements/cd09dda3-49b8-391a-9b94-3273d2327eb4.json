@@ -490,6 +490,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "apple": "2025-05-19 17:39:14 +0000",
       "bread": "2025-03-30 21:28:09 +0000"
     },
     "done": false
@@ -941,6 +942,24 @@
   "minecraft:story/shiny_gear": {
     "criteria": {
       "diamond_helmet": "2025-04-12 21:02:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2025-05-19 17:36:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2025-05-19 17:36:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2025-05-19 17:36:59 +0000"
     },
     "done": true
   },
